@@ -48,102 +48,25 @@ class Home extends React.Component {
               <h3 className="section__title">{strings.skills.title[state.lang]}</h3>
               <ul className="section__list">
                 <li>
-                  <h4>HTML/CSS</h4>
-
-                  <p>HTML5 (JADE/HAML), CSS3, Sass, Less, Emmet, SVG, Responsive Web Design,
-                    Bootstrap, Micro-frameworks, SEO</p>
-                </li>
-                <li>
-                  <h4>Javascript</h4>
-
-                  <p>React/Flux, Backbone/Marionette, Meteor, D3, Handlebars, Jasmine/Mocha. ES
-                    5/6/7</p>
+                  <h4>C++</h4>
+                  <p>C++17</p>
                 </li>
 
                 <li>
-                  <h4>Back-end</h4>
-
-                  <p>Node.js, PHP (Wordpress/Laravel), Ruby, Python, Objective-C, MySQL, MongoDB,
-                    Redis, Rest-API, Bash</p>
-                </li>
+                  <h4>Linux</h4>
+                  <p>Yocto, Bitbake, Drivers, Bash, RHEL, Centos, Fedora, Debian, Ubuntu</p>
+                </li>	
+	
                 <li>
-                  <h4>Dev Tools</h4>
-
-                  <p>Gulp, Grunt, Git, Browserify, Bower, NPM, Yeoman, Cordova, Ionic</p>
+                  <h4>Continous Integration</h4>
+                  <p>Gitlab, Gitlab-CI, Jenkins, Docker</p>
                 </li>
-                <li>
-                  <h4>UI/UX</h4>
 
-                  <p>Adobe PS/AI, Sketch, Axure, Invision, OmniGraffle, Optimizely</p>
+                <li>
+                  <h4>Development Tools</h4>
+                  <p>Git, SVN, CMake, Gnu Make, Jira</p>
                 </li>
               </ul>
-            </div>
-          </div>
-
-          <div className="section projects">
-            <div className="container">
-              <h3 className="section__title">{strings.projects.title[state.lang]}</h3>
-              <ul className="section__list">
-                <li><a href="http://svgporn.com/" className="project" target="_blank">
-                  <div className="project__image">
-                    <img
-                      src="media/projects/svgporn.svg"
-                      className="project"
-                      title="SVG Porn" />
-                  </div>
-                  <div className="project__name">SVG Porn</div>
-                </a>
-                </li>
-                <li><a href="http://favstagram.me/" className="project" target="_blank">
-                  <div className="project__image">
-                    <img
-                      src="media/projects/favstagram.svg"
-                      className="project"
-                      title="Favstagram" />
-                  </div>
-                  <div className="project__name">Favstagram</div>
-                </a>
-                </li>
-                <li>
-                  <a href="http://colormeup.co/" className="project" target="_blank">
-                    <div className="project__image">
-                      <img src="media/projects/colormeup.svg" title="Colormeup" />
-                    </div>
-                    <div className="project__name">Colormeup</div>
-                  </a>
-                </li>
-                <li>
-                  <a href="http://kollectiv.org/" target="_blank">
-                    <div className="project__image">
-                      <img src="media/projects/kollectiv.svg" className="project" title="Kollectiv" />
-                    </div>
-                    <div className="project__name">Kollectiv</div>
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="http://apps.facebook.com/abovetheskyline/"
-                    className="project"
-                    target="_blank">
-                    <div className="project__image">
-                      <img src="media/projects/skyline.svg" title="Above The Skyline" />
-                    </div>
-                    <div className="project__name">Above The Skyline</div>
-                  </a>
-                </li>
-                <li><a href="http://littlealchemyhelper.com/" className="project" target="_blank">
-                  <div className="project__image">
-                    <img
-                      src="media/projects/little-alchemy-helper.svg"
-                      title="Little Alchemy Helper" />
-                  </div>
-                  <div className="project__name">LittleAlchemy Helper</div>
-                </a>
-                </li>
-              </ul>
-              <div className="projects__more">{strings.projects.more[state.lang]}<br />
-                <a href="http://github.com/simonvpe" target="_blank">Github</a> / <a
-                  href="http://codepen.io/simonvpe/" target="_blank">Codepen</a></div>
             </div>
           </div>
           <div className="section experience">
@@ -171,8 +94,8 @@ class Home extends React.Component {
               <h3 className="section__title">{strings.extra.title[state.lang]}</h3>
 
               <p>{strings.extra.text[state.lang]} – <a
-                href="http://rraurl.com/simonvpe"
-                target="_blank">http://rraurl.com/simonvpe</a>
+                href="http://simonvpe.github.io"
+                target="_blank">http://simonvpe.github.io</a>
               </p>
             </div>
           </div>

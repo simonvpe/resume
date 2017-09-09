@@ -46,6 +46,7 @@ class Header extends React.Component {
         </div>
 
         <div className="logos">
+	{/*
           <img src="media/logos/adobe-illustrator.svg" className="adobe-ai" title="adobe illustrator" />
           <img src="media/logos/adobe-photoshop.svg" className="adobe-ps" title="adobe photoshop" />
           <img src="media/logos/angular.svg" className="angular" title="angular" />
@@ -94,7 +95,8 @@ class Header extends React.Component {
           <img src="media/logos/swift.svg" className="swift" title="swift" />
           <img src="media/logos/webplatform.svg" className="webplatform" title="web platform" />
           <img src="media/logos/wordpress.svg" className="wordpress" title="wordpress" />
-          <img src="media/logos/yeoman.svg" className="yeoman" title="yeoman" />
+        <img src="media/logos/yeoman.svg" className="yeoman" title="yeoman" />
+	*/}
         </div>
         <div className="bio">
           <p>{strings.headline[props.lang]}</p>
