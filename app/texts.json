@@ -131,7 +131,15 @@
                     "link": "http://www.coromatic.se",
                     "description": "Automation Engineer - Designed software for controlling heating systems for large building complexes and cooling systems for data centers.",
                     "experience": "C, PLC, Building Automation"
-                }
+                },
+		{
+                    "timeframe": "2005 to 2009",
+                    "title": "Royal Institute of Technology (Stockholm)",
+                    "link": "http://www.kth.se",
+                    "description": "Masters Student - Mechanical engineering, minor Mechatronics.",
+                    "experience": ""
+                }		
+
             ],
             "se": [
                 {
@@ -182,7 +190,14 @@
                     "link": "http://www.coromatic.se",
                     "description": "Automation Engineer - Utvecklade mjukvara för att styra värmesystem för stora bostadsrättsföreningar samt kylsystem för datacenter.",
                     "experience": "C, PLC, Building Automation"
-                }
+                },
+                {
+                    "timeframe": "2005 to 2009",
+                    "title": "Kungliga Tekniska Högskolan",
+                    "link": "http://www.kth.se",
+                    "description": "Civilingenjörsstudent - Maskinteknik med inriktning mekatronik.",
+                    "experience": ""
+                }		
             ]
         }
     },
