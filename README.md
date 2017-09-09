@@ -1,4 +1,4 @@
 Deveveloper Resume
 ====================
 
-[Check it out](http://gilbarbara.github.io)
+[Check it out](http://simonvpe.github.io)

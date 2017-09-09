@@ -1,12 +1,12 @@
 {
-  "name": "gilbarbara.github.io",
+  "name": "simonvpe.github.io",
   "version": "0.4.0",
-  "author": "Gil Barbara <gilbarbara@gmail.com>",
+  "author": "Gil Barbara <simonvpe@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gilbarbara/resume"
+    "url": "https://github.com/simonvpe/resume"
   },
-  "homepage": "http://gilbarbara.github.io/resume/",
+  "homepage": "http://simonvpe.github.io/resume/",
   "dependencies": {
     "classlist-polyfill": "^1.0.2",
     "classnames": "^2.2",

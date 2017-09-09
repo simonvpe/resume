@@ -142,8 +142,8 @@ class Home extends React.Component {
                 </li>
               </ul>
               <div className="projects__more">{strings.projects.more[state.lang]}<br />
-                <a href="http://github.com/gilbarbara" target="_blank">Github</a> / <a
-                  href="http://codepen.io/gilbarbara/" target="_blank">Codepen</a></div>
+                <a href="http://github.com/simonvpe" target="_blank">Github</a> / <a
+                  href="http://codepen.io/simonvpe/" target="_blank">Codepen</a></div>
             </div>
           </div>
           <div className="section experience">
@@ -171,8 +171,8 @@ class Home extends React.Component {
               <h3 className="section__title">{strings.extra.title[state.lang]}</h3>
 
               <p>{strings.extra.text[state.lang]} – <a
-                href="http://rraurl.com/gilbarbara"
-                target="_blank">http://rraurl.com/gilbarbara</a>
+                href="http://rraurl.com/simonvpe"
+                target="_blank">http://rraurl.com/simonvpe</a>
               </p>
             </div>
           </div>

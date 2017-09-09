@@ -190,7 +190,7 @@ gulp.task('gh-pages', function() {
             dot: true
         })
         .pipe($.ghPages({
-            remoteUrl: 'https://github.com/gilbarbara/gilbarbara.github.io',
+            remoteUrl: 'https://github.com/simonvpe/simonvpe.github.io',
             branch: 'master',
             force: true
         }));
