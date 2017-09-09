@@ -3,96 +3,85 @@
         "menu": {
             "en": [
                 {
-                    "title": "Portfolio",
-                    "link": "http://kollectiv.org/"
-                },
-                {
                     "title": "Github",
                     "link": "https://github.com/simonvpe"
                 },
                 {
                     "title": "Contact",
-                    "link": "mailto:simonvpe@gmail.com"
+                    "link": "mailto:simon.v.pettersson+resume@gmail.com"
                 }
             ],
-            "pt": [
-                {
-                    "title": "Portifólio",
-                    "link": "http://kollectiv.org/"
-                },
+            "se": [
                 {
                     "title": "Github",
                     "link": "https://github.com/simonvpe"
                 },
                 {
-                    "title": "Contato",
-                    "link": "mailto:simonvpe@gmail.com"
+                    "title": "Kontakt",
+                    "link": "mailto:simon.v.pettersson+resume@gmail.com"
                 }
             ]
         },
         "contact": {
             "en": "Contact",
-            "pt": "Contato"
-        },
-        "portfolio": {
-            "en": "Portfolio",
-            "pt": "Portifólio"
+            "se": "Contato"
         }
     },
     "headline": {
-        "en": "I am a front-end developer passionate about creating well-finished products with a focus on interface and usability.",
-        "pt": "Sou um programador front-end apaixonado por criar produtos bem finalizados com foco em interface e usabilidade."
+        "en": "I am an embedded developer with expert knowledge about C++ and embedded Linux. I am also proficient with continous integration, containers and microprocessors.",
+        "se": "Jag är främst en embeddedutvecklare med expertkompetens inom C++ och embedded Linux. Jag kan även continous integration, containers och mikroprocessorer."
     },
     "summary": {
         "title": {
             "en": "Summary",
-            "pt": "Resumo"
+            "se": "Resumé"
         },
         "items": {
             "en": [
-                "Extensive knowledge in web development, web design and graphic design.",
-                "Expert in W3C web standards: HTML5, CSS3, SVG, Mobile, Responsive.",
-                "Strong organizational skills and project management.",
-                "Twenty years of experience with computers (Mac OS, Windows, Unix, Linux) and development (C, Perl, PHP, Python, Ruby, Objective-C)",
-                "Reliable, motivated, hardworking and attentive to details",
-                "Adaptive to new applications and technologies.",
+		"Expert and ethusiast about modern C++ development.",
+                "Deep knowledge about the Linux kernel.",
+                "Experience with building custom Linux distros with Yocto and from scratch.",
+                "Good people skills and easy to get along with.",
+                "Twenty years of experience with computers (Mac OS, Windows, Unix, Linux, Amiga) and development (C, C++, Python, Bash, Assembler).",
+                "Knowledge about electronics and understands computer architectures.",
+                "Adaptive and enthusiastic about new applications and technologies.",
                 "Fluent English (Reading, Writing and Speaking)"
             ],
-            "pt": [
-                "Amplo conhecimento em desenvolvimento web, web design e design gráfico.",
-                "Especialista em padrões web W3C: HTML5, CSS3, SVG, Mobile, Responsivo.",
-                "Sólidas habilidades organizacionais e gerenciamento de projetos.",
-                "Vinte anos de experiência em computação (Mac OS, Windows, Unix, Linux, BSD) e desenvolvimento (C, Perl, Python, Applescript, Javascript, Objective C)",
-                "Confiável, motivado, trabalhador e atento aos detalhes.",
-                "Antenado com novas aplicações e tecnologias.",
-                "Inglês Fluente (Leitura, Escrita e Conversação)"
+            "se": [
+		"Expert och entusiast kring modern C++-utveckling.",
+		"Djup kunskap om Linuxkärnan.",
+		"Erfarenhet av att bygga specialecerade Linuxdistributioner med Yocto och från grunden.",
+		"Tjugo års erfarenhet med datorer (Mac OS, Windows, Unix, Linux, Amiga) och utveckling (C, C++, Python, Bash, Assembler).",
+		"Kunskap om elektronik och förstår datorarkitekturer.",
+		"Anpassningsbar och entusiasitsk till nya applikationer och teknologier.",
+		"Läser, skriver och talar flytande engelska."
             ]
         }
     },
     "skills": {
         "title": {
             "en": "Skills",
-            "pt": "Tecnologias"
+            "se": "Tecnologias"
         }
     },
     "projects": {
         "title": {
             "en": "Projects",
-            "pt": "Projetos"
+            "se": "Projetos"
         },
         "more": {
             "en": "see more",
-            "pt": "veja mais"
+            "se": "veja mais"
         }
     },
     "experience": {
         "title": {
             "en": "Experience",
-            "pt": "Experiência"
+            "se": "Experiência"
         },
         "learned": {
             "en": "Skills",
-            "pt": "Ferramentas"
+            "se": "Ferramentas"
         },
         "items": {
             "en": [
@@ -125,7 +114,7 @@
                     "experience": "Mac, Linux, Unix, Windows. Avid, Pro Tools, Flame, Inferno, Logic, Premiere, Final Cut Pro, After Effects. Plug-in development and system libraries."
                 }
             ],
-            "pt": [
+            "se": [
                 {
                     "timeframe": "Desde Dez/2014",
                     "title": "Vérios Investimentos",
@@ -160,11 +149,11 @@
     "extra": {
         "title": {
             "en": "Additional Information",
-            "pt": "Informações adicionais"
+            "se": "Informações adicionais"
         },
         "text": {
             "en": "One of the first DJs in Brazil playing since 1987",
-            "pt": "Um dos DJ pioneiros do Brasil na ativa desde 1987"
+            "se": "Um dos DJ pioneiros do Brasil na ativa desde 1987"
         }
     }
 }

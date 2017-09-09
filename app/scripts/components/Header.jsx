@@ -14,9 +14,9 @@ class Header extends React.Component {
     return (
       <header className="main-header">
         <div className="wrapper">
-          <h1>Gil Barbara</h1>
+          <h1>Simon Pettersson</h1>
 
-          <h2>Senior Front-End Developer</h2>
+          <h2>Senior Embedded Developer</h2>
 
           <ul className="menu">
             {strings.header.menu[props.lang].map((item, i) =>
@@ -35,8 +35,8 @@ class Header extends React.Component {
                   name="language"
                   onChange={props.setLang}
                   defaultChecked={props.lang === 'en'} />
-                <label htmlFor="language" data-on="PT" data-off="EN">
-                  <span className="on">PT</span>
+                <label htmlFor="language" data-on="SE" data-off="EN">
+                  <span className="on">SE</span>
                   <span className="off">EN</span>
                 </label>
               </div>

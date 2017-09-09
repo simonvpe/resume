@@ -8,16 +8,16 @@ class Home extends React.Component {
     super(props);
 
     this.state = {
-      lang: location.pathname.indexOf('en') > -1 ? 'en' : 'pt',
+      lang: location.pathname.indexOf('en') > -1 ? 'en' : 'se',
       texts
     };
   }
 
   @autobind
   setLang(e) {
-    const lang = e.currentTarget.checked ? 'en' : 'pt';
+    const lang = e.currentTarget.checked ? 'en' : 'se';
 
-    window.history.pushState('', '', (lang === 'pt' ? '/' : '?en'));
+    window.history.pushState('', '', (lang === 'se' ? '/' : '?en'));
     this.setState({
       lang
     });
